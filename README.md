@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, i am Ali Rassolie, a self-taught full stack web developer and a freelance software engineer from Sweden (I am also a medical doctor newly graduated from Karolinska Institutet, Stockholm, Sweden). My passion for software lies in the beauty of creating functional machines, whether it be a full-stack application or something for my PhD studies. 
+MD and CS-engineer from Sweden.
 
 **languages and tools:**  
 
